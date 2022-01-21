@@ -1,0 +1,8 @@
+mvc
+model
+view
+controller
+
+messagelist   for storing data
+messagearea   takes input from user
+message       displays msgs enter by user
